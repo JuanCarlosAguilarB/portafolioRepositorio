@@ -1,7 +1,7 @@
 from .base import *
 DEBUG = True
 
-ALLOWED_HOSTS = ['djangoportfoliojuan.herokuapp.com']
+ALLOWED_HOSTS = ['djangoportfoliojuan.herokuapp.com','127.0.0.1']
                     
 
 # Database
